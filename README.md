@@ -1,6 +1,6 @@
 # Проект №10 по курсу "Веб-разработчик" 
 
-https://github.com/AndreiRD/Andreird.github.io
+Andreird.github.io
 
 v0.0.1 Initial version
 
