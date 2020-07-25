@@ -2,6 +2,6 @@
 
 Andreird.github.io
 
-v0.0.1 Initial version
+v0.0.3 Third version
 
 Для запуска проекта, скачайте файлы на свой компьютер и запустите файл index.html в браузере. 
